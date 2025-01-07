@@ -83,6 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Click the button below to copy the code to your clipboard:
 
-[![Copy Code](https://img.shields.io/badge/Copy%20Code-Click%20Here-green)](javascript:document.querySelector('pre code').select();document.execCommand('copy');)
