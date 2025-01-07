@@ -1,5 +1,5 @@
 
-# PHP Mailer Example
+# PHP Mailer Code-Snippet
 
 This repository demonstrates how to send emails using the PHPMailer library in PHP. The provided function sends an HTML email via SMTP, using the PHPMailer files downloaded manually.
 
