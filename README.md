@@ -1,8 +1,4 @@
-Thanks for the clarification! Since you downloaded the PHPMailer files directly and used the `src` folder, I'll modify the README to reflect that, making sure it's clear that the PHPMailer library was manually included without using Composer.
 
-Here's the updated README:
-
-```markdown
 # PHP Mailer Example
 
 This repository demonstrates how to send emails using the PHPMailer library in PHP. The provided function sends an HTML email via SMTP, using the PHPMailer files downloaded manually.
@@ -90,11 +86,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Click the button below to copy the code to your clipboard:
 
 [![Copy Code](https://img.shields.io/badge/Copy%20Code-Click%20Here-green)](javascript:document.querySelector('pre code').select();document.execCommand('copy');)
-```
-
-### Key Changes:
-- **PHPMailer Setup**: The README now specifies that the PHPMailer files are downloaded manually, and no Composer installation is required.
-- **Security Notes**: As before, there are reminders to handle sensitive credentials securely.
-- **Setup Instructions**: Clear steps to include the PHPMailer files and use them in your project.
-
-This should now match your setup perfectly, where you're using the `src` folder from PHPMailer manually. Let me know if you'd like any further changes!
